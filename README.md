@@ -9,7 +9,7 @@
 Options | Help
 --------|-----------
 -b | **Branch**. *CSE* . *IT*
--s | **Semester**. 1 - *Odd* / 2 - *Even*
+-s | **Semester**. 1 - 8
 -p | **Path** to download files to
 
 ###Example 
